@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "starwarsFont";
+  src: url("../../public/assets/fonts/StarJediOutline-y0xm.ttf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "starwarsFont";
+}
